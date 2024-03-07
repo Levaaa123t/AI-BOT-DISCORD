@@ -37,4 +37,4 @@ async def image(ctx):
                 await ctx.send('')
             else:
                 await ctx.send(err)
-bot.run('MTE1MjYwMDY2NzYwNTcwODg2MA.Gr7o77.3re3MtIqrcZXppAJ_Ndm1OZfkU2UscXftw2dxs')
+bot.run('YOUR TOKEN')
